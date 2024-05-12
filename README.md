@@ -1,7 +1,5 @@
-<h1 align="center">Hi I'm Mohamed Maged 👋</h1>
-<h3 align="center">Flutter Developer. I have a one year’s experience in flutter. I work with cubit as a state management and I know about API, Firebase and Shared Preference. I created 6 projects.</h3>
-
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=mohamedmaged5" alt="mohamedmaged5" /></a> </p>
+<h1 align="center">Hi, I'm Mohamed Maged 👋</h1>
+<h3 align="center">Junior Flutter Developer</h3>
 
 - 🌱 I’m currently learning **MVVM Pattern**
 
