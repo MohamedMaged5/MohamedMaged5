@@ -7,7 +7,6 @@
 
 - 📫 How to reach me **https://www.linkedin.com/in/mohamed-maged-96a29a24b**
 
-- 📄 Know about my experiences [https://drive.google.com/file/d/138zn_FOvEAWBBbriKeXS_JwcjLQhqnyO/view?usp=drive_link](https://drive.google.com/file/d/138zn_FOvEAWBBbriKeXS_JwcjLQhqnyO/view?usp=drive_link)
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
