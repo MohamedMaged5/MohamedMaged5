@@ -1,8 +1,6 @@
 <h1 align="center">Hi, I'm Mohamed Maged 👋</h1>
 <h3 align="center">Junior Flutter Developer</h3>
 
-- 🌱 I’m currently learning **MVVM Pattern**
-
 - 👨‍💻 All of my projects are available at [https://github.com/MohamedMaged5?tab=repositories](https://github.com/MohamedMaged5?tab=repositories)
 
 - 📫 How to reach me **https://www.linkedin.com/in/mohamed-maged-96a29a24b**
